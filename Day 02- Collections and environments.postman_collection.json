@@ -146,7 +146,12 @@
 									"}\r",
 									"pm.visualizer.set(template)"
 								],
+<<<<<<< HEAD
 								"type": "text/javascript"
+=======
+								"type": "text/javascript",
+								"packages": {}
+>>>>>>> e298348 (Updated the collections)
 							}
 						}
 					],
@@ -201,5 +206,15 @@
 				]
 			}
 		}
+<<<<<<< HEAD
+=======
+	],
+	"variable": [
+		{
+			"key": "collectionUid",
+			"value": "",
+			"type": "default"
+		}
+>>>>>>> e298348 (Updated the collections)
 	]
 }

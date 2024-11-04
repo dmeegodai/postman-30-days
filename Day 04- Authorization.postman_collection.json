@@ -5,7 +5,11 @@
 		"description": "## Instructions for Day 4: Authorization\n\n1.  **Get the challenge:** Fork [the parent collection `Day 04: Authorization`](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-56245825-855e-4b97-ae54-b78441d511e4) to your own public workspace.\n2.  **Read the documentation:** In your fork, select the first folder. Expand the context bar on the right to follow the instructions in the collection documentation.\n3.  **Submit your solution:** Select the second folder `Submit your solution` and follow the instructions in the documentation to validate your solution.\n    \n\n## Concepts covered\n\n*   [Postman API](https://www.postman.com/postman/workspace/postman-public-workspace/collection/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a?ctx=documentation)\n*   [Authorizing requests](https://learning.postman.com/docs/sending-requests/authorization/)\n    \n\n## Additional resources\n\n*   [Inheriting Auth Details](https://youtu.be/WFiYsfSkyXE) video\n*   [Securely using API keys in Postman](https://blog.postman.com/how-to-use-api-keys/) blog\n*   [Authorization](https://www.tiktok.com/@joycejetson/video/7062757613049580846?) tiktok\n    \n\n## Next challenge\n\n*   [Variables](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-7b48e949-713b-4922-bb69-73fb949cd5af)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "37896799",
+<<<<<<< HEAD
 		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/30-days-of-postman-for-qa-engineers/collection/37896799-c802694f-52ec-472f-8c0f-3ac2f18e149d?action=share&source=collection_link&creator=37896799"
+=======
+		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/d7d3e194-3b28-4278-9bd6-db1f3bb9906d/collection/37896799-c802694f-52ec-472f-8c0f-3ac2f18e149d?action=share&source=collection_link&creator=37896799"
+>>>>>>> e298348 (Updated the collections)
 	},
 	"item": [
 		{
@@ -15,7 +19,18 @@
 					"name": "All Collections - header",
 					"request": {
 						"method": "GET",
+<<<<<<< HEAD
 						"header": [],
+=======
+						"header": [
+							{
+								"key": "x-api-key",
+								"value": "",
+								"type": "text",
+								"disabled": true
+							}
+						],
+>>>>>>> e298348 (Updated the collections)
 						"url": {
 							"raw": "https://api.getpostman.com/collections",
 							"protocol": "https",

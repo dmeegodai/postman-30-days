@@ -5,7 +5,11 @@
 		"description": "## Instructions for Day 7: Debugging\n\n1.  **Get the challenge:** Fork [the parent collection `Day 07: Debugging`](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-3a90a346-b978-4840-816d-abcec1df7111) to your own public workspace.\n2.  **Read the documentation:** In your fork, select the first folder. Expand the context bar on the right to follow the instructions in the collection documentation.\n3.  **Submit your solution:** Select the second folder `Submit your solution` and follow the instructions in the documentation to validate your solution.\n    \n\n## Concepts covered\n\n*   [Debugging and logs](https://learning.postman.com/docs/sending-requests/troubleshooting-api-requests/#debugging-and-logs)\n    \n\n## Additional resources\n\n*   [Debugging with the console](https://youtu.be/YCsURct9wCk) video\n*   [Powerful Debugging with the Postman Console](https://blog.postman.com/powerful-debugging-with-the-postman-console/) blog\n*   [How to use the Postman Console](https://www.postman.com/postman/workspace/postman-team-collections/collection/1559645-9349429e-3744-467b-a127-e3881f0dffc8?ctx=documentation) template\n*   [Debugging](https://www.tiktok.com/@joycejetson/video/7064627117618662703) tiktok\n    \n\n## Next challenge\n\n*   [Run a collection](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-1da88e07-1c0a-401c-996b-a3f2c9c3f486)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "37896799",
+<<<<<<< HEAD
 		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/30-days-of-postman-for-qa-engineers/collection/37896799-83342a87-4fe4-4e96-8541-964e67b79431?action=share&source=collection_link&creator=37896799"
+=======
+		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/d7d3e194-3b28-4278-9bd6-db1f3bb9906d/collection/37896799-83342a87-4fe4-4e96-8541-964e67b79431?action=share&source=collection_link&creator=37896799"
+>>>>>>> e298348 (Updated the collections)
 	},
 	"item": [
 		{

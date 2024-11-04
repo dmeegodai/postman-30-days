@@ -5,7 +5,11 @@
 		"description": "## Instructions for Day 8: Run a collection\n\n1.  **Get the challenge:** Fork [the parent collection `Day 08: Run a collection`](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-1da88e07-1c0a-401c-996b-a3f2c9c3f486) to your own public workspace.\n2.  **Read the documentation:** In your fork, select the first folder. Expand the context bar on the right to follow the instructions in the collection documentation.\n3.  **Submit your solution:** Select the second folder `Submit your solution` and follow the instructions in the documentation to validate your solution.\n    \n\n## Concepts covered\n\n*   [Collection Runner](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/)\n    \n\n## Additional resources\n\n*   [Log Response Data in Collection Runs](https://youtu.be/UreV_7fHKiU) video\n*   [Run collections](https://www.tiktok.com/@joycejetson/video/7065010823349112111) tiktok\n    \n\n## Next challenge\n\n*   [Scripting](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-7b82a13b-7c2a-4b51-9620-66a51df3e313)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "37896799",
+<<<<<<< HEAD
 		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/30-days-of-postman-for-qa-engineers/collection/37896799-6776869b-4a7b-4031-9731-11ea6da90a94?action=share&source=collection_link&creator=37896799"
+=======
+		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/d7d3e194-3b28-4278-9bd6-db1f3bb9906d/collection/37896799-6776869b-4a7b-4031-9731-11ea6da90a94?action=share&source=collection_link&creator=37896799"
+>>>>>>> e298348 (Updated the collections)
 	},
 	"item": [
 		{

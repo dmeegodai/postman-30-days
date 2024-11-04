@@ -5,7 +5,11 @@
 		"description": "## Instructions for Day 3: Add request details\n\n1.  **Get the challenge:** Fork [the parent collection `Day 03: Add request details`](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-969f4824-25ba-4ed6-8926-f71ce4ee079d) to your own public workspace.\n2.  **Read the documentation:** In your fork, select the first folder. Expand the context bar on the right to follow the instructions in the collection documentation.\n3.  **Submit your solution:** Select the second folder `Submit your solution` and follow the instructions in the documentation to validate your solution.\n    \n\n## Concepts covered\n\n*   [Sending body data](https://learning.postman.com/docs/sending-requests/requests/#sending-body-data)\n*   [Configuring request headers](https://learning.postman.com/docs/sending-requests/requests/#configuring-request-headers)\n    \n\n## Additional resources\n\n*   [Upload a File via POST Request](https://youtu.be/S7bwkys6D0E) video\n*   [API requests](https://www.tiktok.com/@joycejetson/video/7062401624437951791) tiktok\n    \n\n## Next challenge\n\n*   [Authorization](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/documentation/1559645-56245825-855e-4b97-ae54-b78441d511e4)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "37896799",
+<<<<<<< HEAD
 		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/30-days-of-postman-for-qa-engineers/collection/37896799-97561ab8-5e03-4a70-bab4-d65258382c72?action=share&source=collection_link&creator=37896799"
+=======
+		"_collection_link": "https://www.postman.com/cryosat-geoscientist-95727926/workspace/d7d3e194-3b28-4278-9bd6-db1f3bb9906d/collection/37896799-97561ab8-5e03-4a70-bab4-d65258382c72?action=share&source=collection_link&creator=37896799"
+>>>>>>> e298348 (Updated the collections)
 	},
 	"item": [
 		{
@@ -173,7 +177,11 @@
 		},
 		{
 			"key": "collectionUid",
+<<<<<<< HEAD
 			"value": "",
+=======
+			"value": "37896799-97561ab8-5e03-4a70-bab4-d65258382c72",
+>>>>>>> e298348 (Updated the collections)
 			"type": "string"
 		},
 		{
