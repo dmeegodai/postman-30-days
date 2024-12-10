@@ -307,7 +307,7 @@
 			},
 			{
 				"key": "value",
-				"value": "{{postman_api_key}}",
+				"value": "{{}}",
 				"type": "string"
 			}
 		]
