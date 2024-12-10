@@ -307,7 +307,7 @@
 			},
 			{
 				"key": "value",
-				"value": "{{}}",
+				"value": "{{test_key}}",
 				"type": "string"
 			}
 		]
